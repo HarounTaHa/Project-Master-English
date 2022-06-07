@@ -7,3 +7,5 @@
                     install packages : pip install -r requirements.txt                    
                     
                     run server : py manage.py runserver
+
+# Screen-Shots
